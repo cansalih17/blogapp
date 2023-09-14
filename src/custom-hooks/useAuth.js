@@ -11,6 +11,7 @@ const useAuth = () => {
         setCurrentUser(user);
       } else {
         setCurrentUser(null);
+        //test deneme
       }
     });
   });
