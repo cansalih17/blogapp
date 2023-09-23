@@ -1,3 +1,3 @@
 # demo
-https://twitterbasicdemo30.netlify.app/
+https://otuzblog.netlify.app/
 
